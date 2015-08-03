@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugins-reinstall",
+  "version": "0.0.1",
+  "description": "cordova cli-tool to reinstall all installed cordova plugins",
+  "main": "./bin/reinstall.sh",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Urucas/cordova-plugins-reinstall.git"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "cdv-reinstall": "./bin/reinstall.sh"
+  },
+  "keywords": [
+    "cordova",
+    "plugins",
+    "install",
+    "remove",
+    "add"
+  ],
+  "author": "Urucas <hello@urucas.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Urucas/cordova-plugins-reinstall/issues"
+  },
+  "homepage": "https://github.com/Urucas/cordova-plugins-reinstall#readme"
+}
