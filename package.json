@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugins-reinstall",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cordova cli-tool to reinstall all installed cordova plugins",
   "main": "./bin/reinstall.sh",
   "scripts": {
